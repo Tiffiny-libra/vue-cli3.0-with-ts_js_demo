@@ -1,5 +1,7 @@
 # vue-with-ts_js-demo-eslint
-
+```
+ can both use TS and JS to develop
+```
 ## Project setup
 ```
 yarn install
