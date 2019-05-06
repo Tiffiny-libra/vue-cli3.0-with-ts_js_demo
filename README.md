@@ -1,6 +1,6 @@
 # vue-with-ts_js-demo-eslint
 ```
- can both use TS and JS to develop
+ can both use TS and JS to develop(pug + ts/js + sass/scss)
 ```
 ## Project setup
 ```
